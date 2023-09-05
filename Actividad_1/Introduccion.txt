@@ -21,7 +21,6 @@ La gestión efectiva de documentos no solo es un objetivo estratégico para nues
 Diseñar, desarrollar e implementar un programa de gestión de documentos completo que abarque desde la captura y almacenamiento hasta la organización, búsqueda y distribución eficiente de documentos.
 \section{Objetivo especifico}
 1. Mantener la información jurídica actualizada dentro de la firma, de acuerdo a las legislaciones vigentes. En este sentido, uno de los problemas de no saber qué es gestión documental es que se corre el riesgo de quedarse con la información desactualizada de manera constante.
-\section{Objetivo especifico}
 2. Evita la pérdida de la documentación, ya que todos los documentos están integrados e identificados en un único sistema. 
 
 \end{center}
