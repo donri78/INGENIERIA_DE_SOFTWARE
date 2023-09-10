@@ -2,7 +2,8 @@
 
 \usepackage{sectsty}
 \usepackage{graphicx}
-\usepackage [utf8]{inputenc} 
+\usepackage [utf8]{inputenc}
+\usepackage[left=2cm]{geometry}
 
 \title{ Gestión de Documentos}
 \author{ Caicedo Porozo Yustin, Molina Monaga Richar, Quiñonez Quiñonez Elsy,    Medina Robinson Ainoha}
@@ -19,6 +20,16 @@ En las próximas secciones, exploraremos los desafíos que enfrentamos en la ges
 La gestión efectiva de documentos no solo es un objetivo estratégico para nuestra organización, sino un paso esencial para potenciar nuestra capacidad de innovación y asegurar el cumplimiento de estándares y regulaciones. Este proyecto representa un compromiso con la excelencia, la optimización de procesos y la maximización de recursos, respaldando nuestra visión de ser líderes en ingeniería y proporcionando la base para futuros éxitos en la ejecución de proyectos complejos.
 \section{Objetivo General}
 Diseñar, desarrollar e implementar un programa de gestión de documentos completo que abarque desde la captura y almacenamiento hasta la organización, búsqueda y distribución eficiente de documentos.
+\section{Objetivos específicos }
+\begin{enumerate}
+    \item Mantener la información jurídica actualizada dentro de la firma, de acuerdo a las legislaciones vigentes. En este sentido, uno de los problemas de no saber qué es gestión documental es que se corre el riesgo de quedarse con la información desactualizada de manera constante.
+    \item Evita la pérdida de la documentación, ya que todos los documentos están integrados e identificados en un único sistema. 
+     \item Evaluar las necesidades y requisitos de los usuarios en cuanto a la gestión de documentos en el contexto de las tecnologías de la información y comunicación.
+\end{enumerate}
+
+\section{Modelo del Sistema}
+\includegraphics[scale=0.4]{modelo.jpg}
+\end{document}grama de gestión de documentos completo que abarque desde la captura y almacenamiento hasta la organización, búsqueda y distribución eficiente de documentos.
 \section{Objetivo especifico}
 1. Mantener la información jurídica actualizada dentro de la firma, de acuerdo a las legislaciones vigentes. En este sentido, uno de los problemas de no saber qué es gestión documental es que se corre el riesgo de quedarse con la información desactualizada de manera constante.
 2. Evita la pérdida de la documentación, ya que todos los documentos están integrados e identificados en un único sistema. 
