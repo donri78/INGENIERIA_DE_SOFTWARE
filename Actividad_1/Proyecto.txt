@@ -30,6 +30,10 @@ Diseñar, desarrollar e implementar un programa de gestión de documentos comple
 \section{Modelo del Sistema}
 \includegraphics[scale=0.4]{modelo.jpg}
 \section{Prototipo del sistema}
+\includegraphics[scale=0.4]{Home Inicio.png}
+\includegraphics[scale=0.4]{Lista de productos.png}
+\includegraphics[scale=0.4]{Soluciones.png}
+\includegraphics[scale=0.4]{Soporte.png}
 \end{document}grama de gestión de documentos completo que abarque desde la captura y almacenamiento hasta la organización, búsqueda y distribución eficiente de documentos.
 \end{document}
 
