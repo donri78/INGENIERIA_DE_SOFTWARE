@@ -6,7 +6,7 @@
 \usepackage[left=2cm]{geometry}
 
 \title{ Gestión de Documentos}
-\author{ Caicedo Porozo Yustin, Molina Monaga Richar, Quiñonez Quiñonez Elsy,    Medina Robinson Ainoha}
+\author{ Caicedo Porozo Yustin, Molina Monaga Richar, Quiñonez Quiñonez Elsy, Medina Robinson Ainoha, Arce Quintero Bryan}
 \date{\today}
 
 \begin{document}
