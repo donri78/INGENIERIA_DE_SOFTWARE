@@ -34,6 +34,10 @@ Diseñar, desarrollar e implementar un programa de gestión de documentos comple
 \includegraphics[scale=0.4]{Lista de productos.png}
 \includegraphics[scale=0.4]{Soluciones.png}
 \includegraphics[scale=0.4]{Soporte.png}
+\includegraphics[scale=0.4]{Iniciar sesion .png}
+\includegraphics[scale=0.4]{Pagina de inicio.png}
+\includegraphics[scale=0.4]{Registrarse.png}
+
 \end{document}grama de gestión de documentos completo que abarque desde la captura y almacenamiento hasta la organización, búsqueda y distribución eficiente de documentos.
 \end{document}
 
