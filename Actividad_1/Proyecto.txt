@@ -30,23 +30,25 @@ Diseñar, desarrollar e implementar un programa de gestión de documentos comple
 \section{Modelo del Sistema}
 \includegraphics[scale=0.4]{modelo.jpg}
 \section{Prototipo del sistema}
-\includegraphics[scale=0.4]{Home Inicio.png}
-\includegraphics[scale=0.4]{Lista de productos.png}
-\includegraphics[scale=0.4]{Soluciones.png}
-\includegraphics[scale=0.4]{Soporte.png}
-\includegraphics[scale=0.4]{Iniciar sesion .png}
-\includegraphics[scale=0.4]{Pagina de inicio.png}
-\includegraphics[scale=0.4]{Registrarse.png}
-\includegraphics[scale=0.4]{BD_Gestion de documentos .png}
-\includegraphics[scale=0.4]{Buscardor de Archivos.png}
-\includegraphics[scale=0.4]{Recuperar datos.png}
-\includegraphics[scale=0.4]{Buscar.png}
-\includegraphics[scale=0.4]{Ayuda.png}
-\includegraphics[scale=0.4]{Detalles.png}
-\includegraphics[scale=0.4]{Borrar documentos.png}
-\includegraphics[scale=0.4]{Ver documentos.png}
-\includegraphics[scale=0.4]{Editar documentos.png}
+\includegraphics[scale=0.13]{Home Inicio.pdf}
+\includegraphics[scale=0.13]{Lista de productos.pdf}
+\includegraphics[scale=0.13]{Soluciones.pdf}
+\includegraphics[scale=0.13]{Soporte.pdf}
+\includegraphics[scale=0.13]{Iniciar sesion_.pdf}
+\includegraphics[scale=0.13]{Pagina de inicio.pdf}
+\includegraphics[scale=0.13]{Registrarse.pdf}
+\includegraphics[scale=0.13]{_BD_Gestion de documentos_.pdf}
+\includegraphics[scale=0.13]{Buscardor de Archivos.pdf}
+\includegraphics[scale=0.13]{Recuperar datos.pdf}
+\includegraphics[scale=0.13]{Buscar.pdf}
+\includegraphics[scale=0.13]{Ayuda.pdf}
+\includegraphics[scale=0.13]{Detalles.pdf}
+\includegraphics[scale=0.13]{Borrar documentos.pdf}
+\includegraphics[scale=0.13]{Ver documentos.pdf}
+\includegraphics[scale=0.13]{Editar documentos.pdf}
 
 \end{document}grama de gestión de documentos completo que abarque desde la captura y almacenamiento hasta la organización, búsqueda y distribución eficiente de documentos.
 \end{document}
+
+
 
