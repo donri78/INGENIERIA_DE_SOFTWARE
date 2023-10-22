@@ -111,11 +111,36 @@ Diseñar, desarrollar e implementar un programa de gestión de documentos comple
 \includegraphics[scale=0.13]{Buscar.jpg}
 \caption{\label{fig:frog} Vista Buscar.}
 \end{figure}
+%12VA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Ayuda.jpg}
+\caption{\label{fig:frog} Vista Ayuda.}
+\end{figure}
+%13AVA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Detalles.jpg}
+\caption{\label{fig:frog} Vista Detalles.}
+\end{figure}
+%15AVA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Borrar documentos.jpg}
+\caption{\label{fig:frog} Vista Borrar documentos.}
+\end{figure}
+%16AVA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Ver documentos.jpg}
+\caption{\label{fig:frog} Vista Ver documentos.}
+\end{figure}
+%17AVA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Editar documentos.jpg}
+\caption{\label{fig:frog} Vista Editar documentos.}
+\end{figure}
 
 \end{document}grama de gestión de documentos completo que abarque desde la captura y almacenamiento hasta la organización, búsqueda y distribución eficiente de documentos.
 \end{document}
