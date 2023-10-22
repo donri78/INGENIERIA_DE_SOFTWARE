@@ -145,7 +145,10 @@ Diseñar, desarrollar e implementar un programa de gestión de documentos comple
 
 \newpage
 %Especificación De Requisitos De Software
+%casos de uso
+%Diagramas de clase
 \includepdf[pages=-]{Especificaciones}
+
 
 \end{document}programa de gestión de documentos completo que abarque desde la captura y almacenamiento hasta la organización, búsqueda y distribución eficiente de documentos.
 
