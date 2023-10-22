@@ -111,6 +111,7 @@ Diseñar, desarrollar e implementar un programa de gestión de documentos comple
 \includegraphics[scale=0.13]{Buscar.jpg}
 \caption{\label{fig:frog} Vista Buscar.}
 \end{figure}
+
 %12VA IMAGEN
 \begin{figure}[H]
 \centering
@@ -142,8 +143,12 @@ Diseñar, desarrollar e implementar un programa de gestión de documentos comple
 \caption{\label{fig:frog} Vista Editar documentos.}
 \end{figure}
 
-\end{document}grama de gestión de documentos completo que abarque desde la captura y almacenamiento hasta la organización, búsqueda y distribución eficiente de documentos.
-\end{document}
+\newpage
+%Especificación De Requisitos De Software
+\includepdf[pages=-]{Especificaciones}
+
+\end{document}programa de gestión de documentos completo que abarque desde la captura y almacenamiento hasta la organización, búsqueda y distribución eficiente de documentos.
+
 
 
 
