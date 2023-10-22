@@ -4,9 +4,11 @@
 \usepackage{graphicx}
 \usepackage [utf8]{inputenc}
 \usepackage[left=2cm]{geometry}
+\usepackage{float}
+\usepackage {pdfpages}
 
 \title{ Gestión de Documentos}
-\author{ Caicedo Porozo Yustin, Molina Monaga Richar, Quiñonez Quiñonez Elsy, Medina Robinson Ainoha, Arce Quintero Bryan}
+\author{Caicedo Yustin, Molina Richar, Quiñonez Elsy, Medina Ainoha,Arce Bryan}
 \date{\today}
 
 \begin{document}
@@ -27,20 +29,88 @@ Diseñar, desarrollar e implementar un programa de gestión de documentos comple
      \item Evaluar las necesidades y requisitos de los usuarios en cuanto a la gestión de documentos en el contexto de las tecnologías de la información y comunicación.
 \end{enumerate}
 
+% DIAGRAMA DEL MODELO DEL SISTEMA 
 \section{Modelo del Sistema}
 \includegraphics[scale=0.4]{modelo.jpg}
+
+% En este espacion inclimos las vistar del prototipo del sistema
 \section{Prototipo del sistema}
+
+% PRIMERA IMAGEN INDEX
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Home Inicio.jpg}
+\caption{\label{fig:frog} Vista del Index del sistema.}
+\end{figure}
+
+%SEGUNDA IMAGEN 
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Lista de productos.jpg}
+\caption{\label{fig:frog} Vista lista de productos .}
+\end{figure}
+
+%TERCERA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Soluciones.jpg}
+\caption{\label{fig:frog} Vista soluciones.}
+\end{figure}
+
+%CUARTA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Soporte.jpg}
+\caption{\label{fig:frog} Vista soporte.}
+\end{figure}
+%QUINTA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Iniciar sesion.jpg}
+\caption{\label{fig:frog} Vista inico de sesion.}
+\end{figure}
+
+%SEXTA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Pagina de inicio.jpg}
+\caption{\label{fig:frog} Vista Pagina de inicio.}
+\end{figure}
+
+%SECTIMA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Registrarse.jpg}
+\caption{\label{fig:frog} Vista de registro.}
+\end{figure}
+
+%OCTAVA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{_BD_Gestion de documentos_.jpg}
+\caption{\label{fig:frog} Vista de los modulos en la Base de datos.}
+\end{figure}
+
+%NOVENA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Buscardor de Archivos.jpg}
+\caption{\label{fig:frog} Vista Buscardor de Archivos.}
+\end{figure}
+
+%DECIMA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Recuperar datos.jpg}
+\caption{\label{fig:frog} Vista Recuperar datos.}
+\end{figure}
+
+%UNDECIMA IMAGEN
+\begin{figure}[H]
+\centering
 \includegraphics[scale=0.13]{Buscar.jpg}
+\caption{\label{fig:frog} Vista Buscar.}
+\end{figure}
 \includegraphics[scale=0.13]{Ayuda.jpg}
 \includegraphics[scale=0.13]{Detalles.jpg}
 \includegraphics[scale=0.13]{Borrar documentos.jpg}
